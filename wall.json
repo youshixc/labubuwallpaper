@@ -1,6 +1,6 @@
 {
-    "wallpapers":
-    
+  "wallpapers": [
+    {
       "id": "1",
       "name": "Character 1",
       "image_url": "https://i.pinimg.com/564x/4f/f1/e4/4ff1e4926477fe1ec4c1cd226631f456.jpg"
@@ -13,12 +13,7 @@
     {
       "id": "3",
       "name": "Character 3",
-      "image_url": "https://i.pinimg.com/564x/6b/09/25/6b0925047fa5bf92e681294501d6ea52.jpg"
-    },
-    {
-      "id": “4”,
-      "name": "Character 4",
-      "image_url": "https://i.pinimg.com/564x/65/be/18/65be186f58d9ba2ba42cdda6f3f34859.jpg"
+     "image_url": "https://i.pinimg.com/564x/65/be/18/65be186f58d9ba2ba42cdda6f3f34859.jpg"
     }
-  
+  ]
 }
